@@ -1,0 +1,19 @@
+{
+  "name": "ejercicios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "differentes.js",
+  "directories": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
